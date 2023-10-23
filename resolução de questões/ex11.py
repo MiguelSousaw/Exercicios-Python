@@ -1,0 +1,10 @@
+n1 = int (input ('Escreva um número inteiro'))
+n2 = int (input ('Escreva seu segundo número inteiro'))
+n3 = float (input ('Escreva um numero real'))
+resultado1 = (n1*2,n2/2)
+resultado2 = ((n1*3)+n3)
+resultado3 = (n3*n3*n3)
+
+print (resultado1)
+print (resultado2)
+print (resultado3)
