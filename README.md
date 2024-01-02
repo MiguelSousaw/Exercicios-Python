@@ -43,3 +43,7 @@ else:
 
 Ola, me chamo Miguel 😎
 obs: Para usar emoji é só colocar dois pontos 
+
+> será que vai chover?
+
+Muito obrigado pela sua postagem 
