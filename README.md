@@ -1,2 +1,2 @@
 # Exercicios-Python
- Resolução de exercicios em python
+ Resolução de exercicios em **python**
