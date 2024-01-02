@@ -23,4 +23,23 @@ lista de tarefas:
 
 [acesse meu github](https://Miguelsousaw.github.io)
 
-[acesse meu instagram](https://miguelsousx.instagram.io)
+Num | Nome | Nota
+--- | --- | ---
+1 | Miguel | 9.8
+
+não sei para que serve o comando  `print()`  no python
+
+Galera, olha meu program em python:
+
+```
+Num = int(input('Digite um número: '))
+if Num % 2 == 0:
+   print (f'O valor {Num} é Par')
+else:
+   print (f'O valor {Num} é Impar')
+```
+[Exercicio 4](https://ex04.py.github.io)
+
+
+Ola, me chamo Miguel 😎
+obs: Para usar emoji é só colocar dois pontos 
