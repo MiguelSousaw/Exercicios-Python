@@ -1,10 +1,7 @@
-caracter = []
+vogal = ['a', 'e', 'i', 'o', 'u']
 consoante = 0
 for i in range (10):
-    caracter.append(input('Digite uma letra: ')[0])
-for c in caracter:
-    c = c.upper()
-    if c != 'A' and c != 'E' and c != 'I' and c != 'O' and c != 'U':
+    caracter = str(input('Escreva um caracter: ')).lower().strip()[0]
+    if caracter not in vogal:
         consoante += 1
-        print (c, end = ' ')
-print (f'Foram lidas {consoante} consoantes.')
+print (f'Existem {consoante} consoantes na cadeia de caracter!')
